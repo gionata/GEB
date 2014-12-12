@@ -6,3 +6,8 @@ The tq-system
 A formal system tq defined on the alphabet {'t', 'q', '-'}, a scheme of axioms 'Xt-qX' and a rule 'XtYqZ'->'XtY-qZX'
 
 Look at the [code](http://swish.swi-prolog.org/p/qnnMTlML.pl "Online prolog intepreter") and have a fun!
+
+Composite numbers
+
+[code](http://swish.swi-prolog.org/p/FsdhKmBM.pl "Online prolog intepreter")
+
